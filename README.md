@@ -6,11 +6,10 @@ This repository is for Lab 7 submission.
 
 - Udacity’s Android Basics - AppWithSettings
 
-This app implements preferences for settings using a switch.
+This app implements user settings using a switch.
 
 ## Lessons
  
-- Preferences
 - User Settings
 
 
